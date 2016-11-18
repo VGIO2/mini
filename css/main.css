@@ -1,0 +1,82 @@
+/**{outline: solid 1px red;}*/
+body{
+    font-family: serif;
+}
+/*--------------------------------------------HERO*/
+.hero .container{
+    background-color: #ffbc07;
+    padding: 30px 0px 120px 0;
+}
+.hero ul{
+    list-style: none;
+    margin-left: 200px;
+}
+.hero ul li{
+    display: inline-block;
+    margin-left: 50px;
+}
+.hero, h2, h5, a, button{
+    text-align: center;
+    color: white;
+}
+.hero a{
+    text-decoration: none;
+}
+.hero h2{
+    font-weight: bold;
+}
+.hero .btn{
+    margin: 25px 100px 0 ;
+    background-color: rgba(244, 133, 65, 0.94);
+}
+.hero h2{
+    padding-top: 150px;
+}
+/*--------------------------------------------CONTENIDO*/
+.contenido .container{
+    padding: 45px 0 15px 0;
+    background-color:#eaeae1;
+}
+.contenido .col{
+    background-color: white;
+    padding: 20px 0 15px 0;
+}
+.contenido .plomo {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #d8d5d5;
+}
+.contenido button{
+    margin-left: 170px;
+    background-color: #ffbc07;
+    border: none;
+}
+.contendio, h3{
+    margin: 12px 10px 2px 10px;
+    color: #837e7e;
+    font-weight: bold;
+}
+.contendio, p{
+    margin: 8px 15px 0px 18px;
+    color: #b9b9b2;
+}
+.contenido .numeros{
+    color: #847f79;
+    text-align: center;
+    line-height: 300px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+/*--------------------------------------------FOOTER*/
+footer .container{
+    background-color: #2f2e2e;
+}
+footer p{
+    padding: 20px 0 40px 0px;
+    color: white;
+    margin-left: 50px;
+}
+
+
